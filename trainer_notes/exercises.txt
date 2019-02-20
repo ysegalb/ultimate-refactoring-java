@@ -38,9 +38,9 @@ Refactoring workshop notes:
                - introduce finder parameter in constructor in the last step
    - pipelines:
        - to streams using narrow changes
-   - legacy code -> Entity
-      - less surprise
-      - sinks for unit testing
-      - responsibility
- 
+   - legacy code
+      Entity: less surprise, sinks for unit testing, responsibility
+      Encryptor
+   - Replace Primitive Constants with Type
+   - Safe unwrap
  
